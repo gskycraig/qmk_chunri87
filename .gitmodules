@@ -1,0 +1,30 @@
+[submodule "lib/chibios"]
+	path = lib/chibios
+	url = ssh://git@support.glorz.top:61322/WestBerryTech/ChibiOS.git
+	branch = master
+[submodule "lib/chibios-contrib"]
+	path = lib/chibios-contrib
+	url = ssh://git@support.glorz.top:61322/WestBerryTech/ChibiOS-Contrib.git
+	branch = master
+[submodule "lib/googletest"]
+	path = lib/googletest
+	url = ssh://git@support.glorz.top:61322/WestBerryTech/googletest.git
+[submodule "lib/lufa"]
+	path = lib/lufa
+	url = ssh://git@support.glorz.top:61322/WestBerryTech/lufa.git
+[submodule "lib/vusb"]
+	path = lib/vusb
+	url = ssh://git@support.glorz.top:61322/WestBerryTech/v-usb.git
+[submodule "lib/printf"]
+	path = lib/printf
+	url = ssh://git@support.glorz.top:61322/WestBerryTech/printf.git
+[submodule "lib/pico-sdk"]
+	path = lib/pico-sdk
+	url = ssh://git@support.glorz.top:61322/WestBerryTech/pico-sdk.git
+[submodule "lib/lvgl"]
+	path = lib/lvgl
+	url = ssh://git@support.glorz.top:61322/WestBerryTech/lvgl.git
+	branch = release/v8.2
+[submodule "keyboards/multimode"]
+	path = keyboards/multimode
+	url = ssh://git@support.glorz.top:61322/WestBerryTech/multimode.git
